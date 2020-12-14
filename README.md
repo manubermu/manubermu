@@ -5,4 +5,5 @@
 - :seedling: Currently working at [Grupo Vermon](https://grupovermon.com) as a Python developer.
 - :email: You can find me on [Twitter](https://twitter.com/manubermu/), [LinkedIn](https://linkedin.com/manuelbermudezmartinez), or my [website](https://manubermu.com/).
 
-![Profile views](https://gpvc.arturio.dev/manubermu)  
+[![Manuel's github stats](https://github-readme-stats.vercel.app/api?username=manubermu&show_icons=true&theme=vision-friendly-dark&hide_border=true&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
