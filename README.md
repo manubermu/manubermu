@@ -2,7 +2,7 @@
 
 - :computer: Graduate in Computer Engineering (Computing).
 - :books: Student of the [Data Science and Data Engineering in the Cloud master's degree program](http://www.cidaen.es).
-- :seedling: Currently working at [Grupo Vermon](https://grupovermon.com) as a Python developer.
+- :seedling: Currently working at [Devaway](https://devaway.io).
 - :email: You can find me on [Twitter](https://twitter.com/manubermu/), [LinkedIn](https://linkedin.com/manuelbermudezmartinez), or my [website](https://manubermu.com/).
 
 [![Manuel's github stats](https://github-readme-stats.vercel.app/api?username=manubermu&show_icons=true&theme=vision-friendly-dark&hide_border=true&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
